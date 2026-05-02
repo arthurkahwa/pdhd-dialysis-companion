@@ -65,7 +65,6 @@ It is the app I wanted to exist for the people in my life who depend on PD — c
 
 <table>
   <tr>
-    <td align="center" width="25%"><img src="assets/screenshot-dashboard.png" width="220" alt="Health Dashboard" /><br><sub><b>Health Dashboard</b></sub></td>
     <td align="center" width="25%"><img src="assets/screenshot-sessions.png" width="220" alt="PD Sessions" /><br><sub><b>PD Sessions</b></sub></td>
     <td align="center" width="25%"><img src="assets/screenshot-supplies.png" width="220" alt="Supply Inventory" /><br><sub><b>Supply Inventory</b></sub></td>
     <td align="center" width="25%"><img src="assets/screenshot-health-trends.png" width="220" alt="Health Trends" /><br><sub><b>Health Trends</b></sub></td>
@@ -74,7 +73,6 @@ It is the app I wanted to exist for the people in my life who depend on PD — c
     <td align="center" width="25%"><img src="assets/screenshot-contacts.png" width="220" alt="Care Team Contacts" /><br><sub><b>Care Team Contacts</b></sub></td>
     <td align="center" width="25%"><img src="assets/screenshot-security.png" width="220" alt="Face ID Security" /><br><sub><b>Face ID Security</b></sub></td>
     <td align="center" width="25%"><img src="assets/screenshot-watch-donut.png" width="220" alt="Apple Watch supply donut" /><br><sub><b>Apple Watch</b></sub></td>
-    <td align="center" width="25%"><a href="https://apps.apple.com/us/app/pdhd-dialysis-companion/id6761768841"><img src="assets/app-icon.png" width="220" alt="App Store" /></a><br><sub><b><a href="https://apps.apple.com/us/app/pdhd-dialysis-companion/id6761768841">Get it on the App Store</a></b></sub></td>
   </tr>
 </table>
 
